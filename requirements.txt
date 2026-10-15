@@ -1,0 +1,6 @@
+pypdf
+ollama
+pytest
+ruff
+# optional, only for handwriting transcription with Claude:
+# anthropic
